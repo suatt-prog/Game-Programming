@@ -13,4 +13,5 @@ Benim Geliştirdiğim Kısımlar:
   Scriptler : Oyuncu(ortak) , bomba , kus            
 Proje Arkadaşımın Geliştirdiği Kısımlar:              
   Sağa , sola , yukarı yönlü hareketler. Silah kullanımı: Oyuncu silaha çarptığında silahın yürüttüğü childi durum durumu silahın fare hareketine göre döndürme , 
-  fare 1   e basıldığında mermi patladı. Mermi hareketi: Merminin silah ile aynı yönlerde ve o yönde gitmesi , merminin bir süre sonra yok olması.
+  fare 1   e basıldığında mermi patladı. Mermi hareketi: Merminin silah ile aynı yönlerde ve o yönde gitmesi , merminin bir süre sonra yok olması.              
+Oyun linki :https://simmer.io/@suattprog/bird-hunter
